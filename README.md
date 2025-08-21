@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lianux-mm
 - 👀 I’m interested in os
-- 🌱 I’m currently learning linux(mthp)
+- 🌱 I’m currently learning linux(mthp、madvise、arm)
 
 
 <!---
